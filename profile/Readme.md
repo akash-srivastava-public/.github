@@ -15,20 +15,16 @@
 ![](https://img.shields.io/badge/Development_Tool-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OOPs_Programing-JAVA,TYPESCRIPT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Machine_Learning-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Operating_System-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud_Computing-Azure_and_Google_Cloud-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-SQL,MongoDB,PostgrSQL,SQLite-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Operating_System-Windows,Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud_Computing-SAP_BusinessTechnologyPlatform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL,MongoDB,PostgrSQL,SQLite,SAP_HANA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Angular,React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Node.Js/Express.Js,Java_Spring,JDBC-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/LLM-OpenAI,VertexAI,Palm-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Packages-NPM,yarn,pip-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## 📈 My Github Stats !!
-<a href="https://github.com/ryo-ma/github-profile-trophy" float="center">
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=sky-ether-public&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-<p float="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sky-ether-public&count_private=true&show_icons=true&theme=radical&hide=issues" height="130" width="360"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sky-ether-public&theme=nord_dark" height="130" width="210"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sky-ether-public&theme=nord_dark" height="130" width="210"/>
-</p>
+[![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sky-ether-public&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sky-ether-public/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky-ether-public&layout=compact&theme=calm)](https://github.com/sky-ether-public/github-readme-stats)
 
