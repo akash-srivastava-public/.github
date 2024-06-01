@@ -31,6 +31,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky-ether-public&layout=compact&theme=calm)](https://github.com/sky-ether-public/github-readme-stats)
 
 ## ☎ Contact me on !!
-[](Topmate)[https://topmate.io/akash_sr_public]
-[](discord)[https://discord.gg/bX9qnBHM]
+(Topmate)[https://topmate.io/akash_sr_public ]
+(discord)[https://discord.gg/bX9qnBHM]
 
