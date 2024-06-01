@@ -29,6 +29,7 @@
 ## 📈 My Github Stats !!
 [![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sky-ether-public&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sky-ether-public/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky-ether-public&layout=compact&theme=calm)](https://github.com/sky-ether-public/github-readme-stats)
+<a href="http://www.github.com/sky-ether-public"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaPrasad1209&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## ☎ Contact me on !!
 [Topmate](https://topmate.io/akash_sr_public)
