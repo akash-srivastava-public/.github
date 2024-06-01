@@ -9,6 +9,8 @@
 ## Hi There 👋 !!
 <p align="centre">Driven by a passion for innovation, I thrive in dynamic environments where creativity meets technology. My journey as a Full Stack Developer has been marked by successful project executions, impactful contributions to research, and recognition for excellence. Eager to explore new challenges and contribute to cutting-edge projects in the ever-evolving tech landscape. Let's connect and explore the possibilities of collaboration and innovation.</p>
 
+[**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+
 <b>Generative AI Learner, Cloud and UI/UX Engineering Enthusiast</b>
 
 ## ⚙️ My Technology and Tools !!
@@ -27,4 +29,8 @@
 ## 📈 My Github Stats !!
 [![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sky-ether-public&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sky-ether-public/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky-ether-public&layout=compact&theme=calm)](https://github.com/sky-ether-public/github-readme-stats)
+
+## ☎ Contact me on !!
+[](Topmate)[https://topmate.io/akash_sr_public]
+[](discord)[https://discord.gg/bX9qnBHM]
 
