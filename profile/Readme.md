@@ -35,5 +35,5 @@
 
 ## ☎ Contact me on !!
 [Topmate](https://topmate.io/akash_sr_public)
-[discord](https://discord.gg/bX9qnBHM)
+[Linktree](https://linktr.ee/akash_sr_public)
 
