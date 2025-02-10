@@ -2,6 +2,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akash-srivastava-pvt&color=blue&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/akash-srivastava-pvt">
+    <img src="https://img.shields.io/github/followers/akash-srivastava-pvt?label=follow&style=social" alt="GitHub Followers" />
+  </a>
 </p>
 
 # 👋 Hi, I'm Akash!
@@ -12,7 +15,7 @@ Currently SDE 2 at Avalara, Preveiously worked at SAP, Chubb.
 
 ## 📊 GitHub Stats
 
-![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash-srivastava-pvt&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash-srivastava-pvt&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
 
 
 ## 🔗 Connect with Me
