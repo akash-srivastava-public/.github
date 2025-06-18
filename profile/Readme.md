@@ -21,7 +21,7 @@ Currently SDE 2 at Avalara, Preveiously worked at SAP, Chubb.
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-srivastava-public/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erAkash)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erAkash_)
 [![Topmate](https://img.shields.io/badge/Topmate-%23F08080.svg?&style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io/erakashsrivastava)
 
 ---
